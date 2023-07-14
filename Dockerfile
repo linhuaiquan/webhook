@@ -1,1 +1,1 @@
-FROM quay.io/cephcsi/cephcsi:v3.2.2
+FROM docker.io/flannel/flannel-cni-plugin:v1.1.2
